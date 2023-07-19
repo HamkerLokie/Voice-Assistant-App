@@ -27,7 +27,7 @@ class FeatureBox extends StatelessWidget {
                   child: Text(headerText,
                       style: const TextStyle(
                           fontFamily: 'Cera Pro',
-                          color: Pallete.blackColor,
+                          color: Pallete.blackColor, 
                           fontSize: 18,
                           fontWeight: FontWeight.bold))),
               const SizedBox(height: 3),

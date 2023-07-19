@@ -1,4 +1,4 @@
-# assistance
+# Assistance App
 
 A new Flutter project.
 
